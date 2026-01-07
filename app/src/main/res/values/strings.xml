@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pawner</string>
+    <string name="start">Empezar</string>
+    <string name="logo">Logo</string>
+    <string name="usuario_e_mail">Usuario / E-mail</string>
+    <string name="int_usuario">Introduce tu usuario o email</string>
+    <string name="passwd">Contraseña</string>
+    <string name="int_pswd">Introduce tu contraseña</string>
+    <string name="miss_pswd">No recuerdo la contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="sign_up">¿No tienes cuenta? Regístrate</string>
+    <string name="fml_code">Código de familia</string>
+    <string name="fml_crear">Nombre de familia</string>
+</resources>
